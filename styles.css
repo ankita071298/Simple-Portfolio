@@ -1,0 +1,29 @@
+body
+  {
+	background-color:#eaf6f6;
+  }
+hr
+  {
+	background-color:#eaf6f6;
+	border-style:none;
+	border-top-style:dotted;
+	border-color:grey;
+	border-width:5px;
+	width:50%
+  }
+h3
+  {
+	color:#66bfbf;
+  }
+#name
+  {
+	color:purple;
+  }
+.err
+  {
+	color:Green;
+  }
+th
+  {
+	color:#66bfbf;
+  }
